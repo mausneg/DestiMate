@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">DestiMate</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="password_confirm">Password Confirm</string>
+    <string name="signup">Sign Up</string>
+    <string name="username">Username</string>
+    <string name="date">Birth Date</string>
+    <string name="message_login_page">Ayo login dan lihat destinasi apa saja yang dapat membuatmu terpesona!</string>
+    <string name="message_signup_page">Isi data di bawah ini untuk membuat akun baru!</string>
+    <string name="title_login_page">Selamat datang di DestiMate!</string>
+    <string name="title_signup_page">Buat akun DestiMate milikmu!</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_article">Article</string>
+    <string name="title_schedule">Schedule</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_setting">Setting</string>
+
+</resources>
