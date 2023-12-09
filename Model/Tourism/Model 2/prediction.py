@@ -2,6 +2,7 @@ import tensorflow_recommenders as tfrs
 import tensorflow as tf
 import pickle as pkl
 import os
+import numpy as np
 
 curr_dir = os.path.dirname(os.path.realpath(__file__))
 user_vocab_path = os.path.join(curr_dir, 'pickles/user_vocab.pkl')
@@ -42,5 +43,9 @@ class CollaborativeModel(tfrs.Model):
 
 model = CollaborativeModel()
 weights_path = os.path.join(curr_dir, './weights/model_weights')
-model.load_weights(weights_path)
-print("test")
+model.load_weights(weights_path).expect_partial()
+index = tfrs.layers.factorized_top_k.BruteForce (model.user_model)
+no_user = 1
+index.index_from_dataset(tourism.batch(100).map(lambda place: (place,model.tourism_model(place))))
+_, titles = index(np.array([no_user]))
+print(f"Recommendations for user {no_user}: {titles[0,:10]}")
