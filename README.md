@@ -1,1 +1,8 @@
-# CH2-PS452-Capstone
+| Name                    | Bangkit ID  | Learning Path      | Contacts                                                                                                                                                                                |
+| ----------------------- | ----------- | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| M Irvan Hidayat | M183BSY1332 | Machine Learning | [![](https://github.com/mausneg/CH2-PS452-Capstone/blob/main/LinkedIn.png)]() [![](https://github.com/mausneg/CH2-PS452-Capstone/blob/main/github.png)]()                        |
+| Maulana Surya Negara       | M253BSY0183 | Machine Learning | [![](https://github.com/mausneg/CH2-PS452-Capstone/blob/main/LinkedIn.png)]() [![](https://github.com/mausneg/CH2-PS452-Capstone/blob/main/github.png)]()         |
+| Muhammad Fahir          | M253BSY0515 | Machine Learning   | [![](https://github.com/mausneg/CH2-PS452-Capstone/blob/main/LinkedIn.png)]() [![](https://github.com/mausneg/CH2-PS452-Capstone/blob/main/github.png)]()                              |
+| Naurah Hikmah Aulia       | C312BSX4123 | Cloud Computing   | [![](https://github.com/mausneg/CH2-PS452-Capstone/blob/main/LinkedIn.png)]() [![](https://github.com/mausneg/CH2-PS452-Capstone/blob/main/github.png)]() |
+| Ziagy Aji Fernando            | C183BSY3820 | Cloud Computing     | [![](https://github.com/mausneg/CH2-PS452-Capstone/blob/main/LinkedIn.png)]() [![](https://github.com/mausneg/CH2-PS452-Capstone/blob/main/github.png)]()                   |
+| M. Daden Kasandi Putra Wesa            | A253BSY2169 | Mobile Development     | [![](https://github.com/mausneg/CH2-PS452-Capstone/blob/main/LinkedIn.png)]() [![](https://github.com/mausneg/CH2-PS452-Capstone/blob/main/github.png)]()                   |
