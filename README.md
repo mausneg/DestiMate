@@ -18,7 +18,7 @@ Our project revolutionizes trip planning with an Intelligent Tourist Attraction 
 
 ## Members
 | Name                    | Bangkit ID  | Learning Path      | Contacts                                                                                                                                                                                |
-| ----------------------- | ----------- | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ----------------------- | ----------- | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | M Irvan Hidayat | M183BSY1332 | Machine Learning | [![](https://github.com/mausneg/CH2-PS452-Capstone/blob/main/Profile/LinkedIn.png)]()[![](https://github.com/mausneg/CH2-PS452-Capstone/blob/main/Profile/github.png)]()                        |
 | Maulana Surya Negara       | M253BSY0183 | Machine Learning | [![](https://github.com/mausneg/CH2-PS452-Capstone/blob/main/Profile/LinkedIn.png)]()[![](https://github.com/mausneg/CH2-PS452-Capstone/blob/main/Profile/github.png)]()         |
 | Muhammad Fahir          | M253BSY0515 | Machine Learning   | [![](https://github.com/mausneg/CH2-PS452-Capstone/blob/main/Profile/LinkedIn.png)]()[![](https://github.com/mausneg/CH2-PS452-Capstone/blob/main/Profile/github.png)]()                              |
