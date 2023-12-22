@@ -1,3 +1,0 @@
-com.capstone.destimate.test
-style WhiteBackgroundDialogTheme
-style WhiteBackgroundTheme
