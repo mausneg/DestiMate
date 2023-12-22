@@ -1,6 +1,0 @@
-com.capstone.destimate.test.app-core-1.5.0-0 C:\Users\daden\.gradle\caches\transforms-3\447866c472b61493f9da7647bd14a669\transformed\core-1.5.0\res
-com.capstone.destimate.test.app-annotation-experimental-1.3.0-1 C:\Users\daden\.gradle\caches\transforms-3\555566ff30ce355a9ea16a25ff3d8b94\transformed\annotation-experimental-1.3.0\res
-com.capstone.destimate.test.app-androidTest-2 E:\Semester 7\Bangkit\Belajar Dicoding\DestiMate\app\build\generated\res\resValues\androidTest\debug
-com.capstone.destimate.test.app-mergeDebugAndroidTestResources-3 E:\Semester 7\Bangkit\Belajar Dicoding\DestiMate\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
-com.capstone.destimate.test.app-mergeDebugAndroidTestResources-4 E:\Semester 7\Bangkit\Belajar Dicoding\DestiMate\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
-com.capstone.destimate.test.app-merged_res-5 E:\Semester 7\Bangkit\Belajar Dicoding\DestiMate\app\build\intermediates\merged_res\debugAndroidTest
