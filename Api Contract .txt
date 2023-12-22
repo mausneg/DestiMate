@@ -1,0 +1,261 @@
+endpoint: 
+https://destimate-api.bangkit.dev/
+
+Login
+- URL: /login
+- Method: POST
+- Request Body: a. Email: String
+		b. Password: String (minimal 8)
+
+- Response: 
+a. success
+{
+"error": false,
+"message": "success",
+
+"loginResult": {
+        	"userId" : "user-yj5pc_LARC_AgK61",
+        	"name" : "Arif Faizin",
+        	"photoUrl" : "https://destimate-api.bangkit.dev/images/profile/photos-1641623658595_dummy-pic.png"
+		"preference" : false(brarti dia baru login atau dia belum ada rating samsek"	
+		"age" : 18
+		"city" : "Mataram"
+		"province" : "NTB"
+		"token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJ1c2VyLXlqNXBjX0xBUkNfQWdLNjEiLCJpYXQiOjE2NDE3OTk5NDl9.flEMaQ7zsdYkxuyGbiXjEDXO8kuDTcI__3UjCwt6R_I"
+    }
+}
+
+b. failed
+
+{
+"error": true,
+"message": "Invalid password"/"User not found" (Tergantung kondisi)
+}
+
+
+
+
+Register
+- URL: /register
+- Method: POST
+- Request Body: a. Nama: String
+		b. Email: String
+		c. Age : Int
+		d. city: String
+		e. province: String
+		f. imageFile: Multipart
+		f. Password: String (minimal 8)
+
+- Response: 
+a. success
+{
+"error": false,
+"message": "User Created"
+}
+
+b. failed
+
+{
+"error": true,
+"message": "Invalid password"/"Email exists" (Tergantung kondisi)
+}
+
+
+
+Rekomdendasi destinasi
+- URL: /recommendation
+- Method: GET
+- Parameters: 
+
+- Header: Authorization: Bearer <token>
+	
+- Response: 
+a. success
+{
+"error": false,
+"message": "Destination fetched successfully",
+"listDestination" : [
+	{ "place_id" : 1,
+	"place_name" : "Monumen Nasional",
+	"description" : "sadsadsafdsfdfgghghghg",
+	"category" : "Sejarah Edukasi",
+	"city" : "Jakarta",
+	"price" : 20000,
+	"rating" : 46,
+	"lat" : -61753924,
+	"long" : 1068271528,
+	"rating_count" : 18,
+	"photoUrl" : "https://destimate-api.bangkit.dev/images/destination/photos-1641623658595_dummy-pic.png"},
+]
+}
+
+b. failed
+
+{
+"error": true,
+"message": "Failed to fetched destinations" (Tergantung kondisi)
+}
+
+
+
+Rekomdendasi destinasi berdasarkan lokasi
+- URL: /nearby-user
+- Method: GET
+- Parameters: a. lat : Int
+		b. long : Int
+
+- Header: Authorization: Bearer <token>
+	
+- Response: 
+a. success
+{
+"error": false,
+"message": "Destination fetched successfully",
+"listDestination" : [
+	{ "place_id" : 1,
+	"place_name" : "Monumen Nasional",
+	"description" : "sadsadsafdsfdfgghghghg",
+	"category" : "Sejarah Edukasi",
+	"city" : "Jakarta",
+	"price" : 20000,
+	"rating" : 46,
+	"lat" : -61753924,
+	"long" : 1068271528,
+	"rating_count" : 18,
+	"photoUrl" : "https://destimate-api.bangkit.dev/images/destination/photos-1641623658595_dummy-pic.png"},
+]
+}
+
+b. failed
+
+{
+"error": true,
+"message": "Failed to fetched destinations" (Tergantung kondisi)
+}
+
+
+Destinasi favorit/trend (sorted by rating and rating_count)
+- URL: /favorite-destination
+- Method: GET
+- Parameters: 
+- Header: Authorization: Bearer <token>
+	
+- Response: 
+a. success
+{
+"error": false,
+"message": "Destination fetched successfully",
+"listDestination" : [
+	{ "place_id" : 1,
+	"place_name" : "Monumen Nasional",
+	"description" : "sadsadsafdsfdfgghghghg",
+	"category" : "Sejarah Edukasi",
+	"city" : "Jakarta",
+	"price" : 20000,
+	"rating" : 46,
+	"lat" : -61753924,
+	"long" : 1068271528,
+	"rating_count" : 18,
+	"photoUrl" : "https://destimate-api.bangkit.dev/images/destination/photos-1641623658595_dummy-pic.png"},
+]
+}
+
+b. failed
+
+{
+"error": true,
+"message": "Failed to fetched destinations" (Tergantung kondisi)
+}
+
+Search destination
+- URL: /search
+- Method: GET
+- Parameters: a. keyword : String
+- Header: Authorization: Bearer <token>
+	
+- Response: 
+a. success
+{
+"error": false,
+"message": "Destination fetched successfully",
+"listDestination" : [
+	{ "place_id" : 1,
+	"place_name" : "Monumen Nasional",
+	"description" : "sadsadsafdsfdfgghghghg",
+	"category" : "Sejarah Edukasi",
+	"city" : "Jakarta",
+	"price" : 20000,
+	"rating" : 46,
+	"lat" : -61753924,
+	"long" : 1068271528,
+	"rating_count" : 18,
+	"photoUrl" : "https://destimate-api.bangkit.dev/images/destination/photos-1641623658595_dummy-pic.png"},
+]
+}
+
+b. failed
+
+{
+"error": true,
+"message": "Failed to fetched destinations" (Tergantung kondisi)
+}
+
+
+
+Rate destination
+- URL: /insert-destination-rate
+- Method: POST
+- Request Body: a. place_id : int
+		b. rate : float
+
+- Header: Authorization: Bearer <token>
+	
+- Response: 
+a. success
+{
+"error": false,
+"message": "Destination rated successfully",
+}
+
+b. failed
+
+{
+"error": true,
+"message": "Failed to rate destinations" (Tergantung kondisi)
+}
+
+
+
+Akomodasi sekitar lokasi wisata
+
+- URL: /nearby-acomodation
+- Method: GET
+- Parameters: a. lat : Int
+	      b. long : Int
+
+- Header: Authorization: Bearer <token>
+	
+- Response: 
+a. success
+{
+"error": false,
+"message": "Acomodations fetched successfully",
+"listAcomodations" : [
+	{ "acomodation_id" : 1,
+	"acomodation_name" : "Monumen Nasional",
+	"category" : "Hotel",
+	"street" : "jl. blalal",
+	"rating" : 46,
+	"lat" : -61753924,
+	"long" : 1068271528,
+	"rating_count" : 18,
+	"photoUrl" : "https://destimate-api.bangkit.dev/images/destination/photos-1641623658595_dummy-pic.png"},
+]
+}
+
+b. failed
+
+{
+"error": true,
+"message": "Failed to fecth acomodations" (Tergantung kondisi)
+}
