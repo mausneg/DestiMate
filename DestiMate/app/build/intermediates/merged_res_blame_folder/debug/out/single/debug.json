@@ -1,0 +1,178 @@
+[
+    {
+        "merged": "C:\\Users\\daden\\.gradle\\daemon\\8.2\\com.capstone.destimate.app-merged_res-55:\\drawable_ic_baseline_lock_24.xml.flat",
+        "source": "C:\\Users\\daden\\.gradle\\daemon\\8.2\\com.capstone.destimate.app-main-57:\\drawable\\ic_baseline_lock_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\daden\\.gradle\\daemon\\8.2\\com.capstone.destimate.app-merged_res-55:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\daden\\.gradle\\daemon\\8.2\\com.capstone.destimate.app-main-57:\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\daden\\.gradle\\daemon\\8.2\\com.capstone.destimate.app-merged_res-55:\\layout_item_recommendation.xml.flat",
+        "source": "C:\\Users\\daden\\.gradle\\daemon\\8.2\\com.capstone.destimate.app-main-57:\\layout\\item_recommendation.xml"
+    },
+    {
+        "merged": "C:\\Users\\daden\\.gradle\\daemon\\8.2\\com.capstone.destimate.app-merged_res-55:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\daden\\.gradle\\daemon\\8.2\\com.capstone.destimate.app-main-57:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\daden\\.gradle\\daemon\\8.2\\com.capstone.destimate.app-merged_res-55:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\daden\\.gradle\\daemon\\8.2\\com.capstone.destimate.app-main-57:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\daden\\.gradle\\daemon\\8.2\\com.capstone.destimate.app-merged_res-55:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\daden\\.gradle\\daemon\\8.2\\com.capstone.destimate.app-main-57:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\daden\\.gradle\\daemon\\8.2\\com.capstone.destimate.app-merged_res-55:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\daden\\.gradle\\daemon\\8.2\\com.capstone.destimate.app-main-57:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\daden\\.gradle\\daemon\\8.2\\com.capstone.destimate.app-merged_res-55:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\daden\\.gradle\\daemon\\8.2\\com.capstone.destimate.app-main-57:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\daden\\.gradle\\daemon\\8.2\\com.capstone.destimate.app-merged_res-55:\\drawable_ic_location_address.xml.flat",
+        "source": "C:\\Users\\daden\\.gradle\\daemon\\8.2\\com.capstone.destimate.app-main-57:\\drawable\\ic_location_address.xml"
+    },
+    {
+        "merged": "C:\\Users\\daden\\.gradle\\daemon\\8.2\\com.capstone.destimate.app-merged_res-55:\\drawable_ic_notifications_black_24dp.xml.flat",
+        "source": "C:\\Users\\daden\\.gradle\\daemon\\8.2\\com.capstone.destimate.app-main-57:\\drawable\\ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\daden\\.gradle\\daemon\\8.2\\com.capstone.destimate.app-merged_res-55:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\daden\\.gradle\\daemon\\8.2\\com.capstone.destimate.app-main-57:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\daden\\.gradle\\daemon\\8.2\\com.capstone.destimate.app-merged_res-55:\\drawable_ic_home_black_24dp.xml.flat",
+        "source": "C:\\Users\\daden\\.gradle\\daemon\\8.2\\com.capstone.destimate.app-main-57:\\drawable\\ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\daden\\.gradle\\daemon\\8.2\\com.capstone.destimate.app-merged_res-55:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\daden\\.gradle\\daemon\\8.2\\com.capstone.destimate.app-main-57:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\daden\\.gradle\\daemon\\8.2\\com.capstone.destimate.app-merged_res-55:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\daden\\.gradle\\daemon\\8.2\\com.capstone.destimate.app-main-57:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\daden\\.gradle\\daemon\\8.2\\com.capstone.destimate.app-merged_res-55:\\layout_activity_user.xml.flat",
+        "source": "C:\\Users\\daden\\.gradle\\daemon\\8.2\\com.capstone.destimate.app-main-57:\\layout\\activity_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\daden\\.gradle\\daemon\\8.2\\com.capstone.destimate.app-merged_res-55:\\drawable_header.png.flat",
+        "source": "C:\\Users\\daden\\.gradle\\daemon\\8.2\\com.capstone.destimate.app-main-57:\\drawable\\header.png"
+    },
+    {
+        "merged": "C:\\Users\\daden\\.gradle\\daemon\\8.2\\com.capstone.destimate.app-merged_res-55:\\drawable_ic_rating.xml.flat",
+        "source": "C:\\Users\\daden\\.gradle\\daemon\\8.2\\com.capstone.destimate.app-main-57:\\drawable\\ic_rating.xml"
+    },
+    {
+        "merged": "C:\\Users\\daden\\.gradle\\daemon\\8.2\\com.capstone.destimate.app-merged_res-55:\\layout_activity_maps.xml.flat",
+        "source": "C:\\Users\\daden\\.gradle\\daemon\\8.2\\com.capstone.destimate.app-main-57:\\layout\\activity_maps.xml"
+    },
+    {
+        "merged": "C:\\Users\\daden\\.gradle\\daemon\\8.2\\com.capstone.destimate.app-merged_res-55:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\daden\\.gradle\\daemon\\8.2\\com.capstone.destimate.app-main-57:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\daden\\.gradle\\daemon\\8.2\\com.capstone.destimate.app-merged_res-55:\\layout_activity_detail.xml.flat",
+        "source": "C:\\Users\\daden\\.gradle\\daemon\\8.2\\com.capstone.destimate.app-main-57:\\layout\\activity_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\daden\\.gradle\\daemon\\8.2\\com.capstone.destimate.app-merged_res-55:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\daden\\.gradle\\daemon\\8.2\\com.capstone.destimate.app-main-57:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\daden\\.gradle\\daemon\\8.2\\com.capstone.destimate.app-merged_res-55:\\raw_map_style.json.flat",
+        "source": "C:\\Users\\daden\\.gradle\\daemon\\8.2\\com.capstone.destimate.app-main-57:\\raw\\map_style.json"
+    },
+    {
+        "merged": "C:\\Users\\daden\\.gradle\\daemon\\8.2\\com.capstone.destimate.app-merged_res-55:\\drawable_ic_baseline_email_24.xml.flat",
+        "source": "C:\\Users\\daden\\.gradle\\daemon\\8.2\\com.capstone.destimate.app-main-57:\\drawable\\ic_baseline_email_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\daden\\.gradle\\daemon\\8.2\\com.capstone.destimate.app-merged_res-55:\\drawable_ic_dashboard_black_24dp.xml.flat",
+        "source": "C:\\Users\\daden\\.gradle\\daemon\\8.2\\com.capstone.destimate.app-main-57:\\drawable\\ic_dashboard_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\daden\\.gradle\\daemon\\8.2\\com.capstone.destimate.app-merged_res-55:\\drawable_ic_baseline_person_24.xml.flat",
+        "source": "C:\\Users\\daden\\.gradle\\daemon\\8.2\\com.capstone.destimate.app-main-57:\\drawable\\ic_baseline_person_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\daden\\.gradle\\daemon\\8.2\\com.capstone.destimate.app-merged_res-55:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\daden\\.gradle\\daemon\\8.2\\com.capstone.destimate.app-main-57:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\daden\\.gradle\\daemon\\8.2\\com.capstone.destimate.app-merged_res-55:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\daden\\.gradle\\daemon\\8.2\\com.capstone.destimate.app-main-57:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\daden\\.gradle\\daemon\\8.2\\com.capstone.destimate.app-merged_res-55:\\drawable_logo.png.flat",
+        "source": "C:\\Users\\daden\\.gradle\\daemon\\8.2\\com.capstone.destimate.app-main-57:\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\daden\\.gradle\\daemon\\8.2\\com.capstone.destimate.app-merged_res-55:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\daden\\.gradle\\daemon\\8.2\\com.capstone.destimate.app-main-57:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\daden\\.gradle\\daemon\\8.2\\com.capstone.destimate.app-merged_res-55:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\daden\\.gradle\\daemon\\8.2\\com.capstone.destimate.app-main-57:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\daden\\.gradle\\daemon\\8.2\\com.capstone.destimate.app-merged_res-55:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\daden\\.gradle\\daemon\\8.2\\com.capstone.destimate.app-main-57:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\daden\\.gradle\\daemon\\8.2\\com.capstone.destimate.app-merged_res-55:\\layout_item_favorite.xml.flat",
+        "source": "C:\\Users\\daden\\.gradle\\daemon\\8.2\\com.capstone.destimate.app-main-57:\\layout\\item_favorite.xml"
+    },
+    {
+        "merged": "C:\\Users\\daden\\.gradle\\daemon\\8.2\\com.capstone.destimate.app-merged_res-55:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\daden\\.gradle\\daemon\\8.2\\com.capstone.destimate.app-main-57:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\daden\\.gradle\\daemon\\8.2\\com.capstone.destimate.app-merged_res-55:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\daden\\.gradle\\daemon\\8.2\\com.capstone.destimate.app-main-57:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\daden\\.gradle\\daemon\\8.2\\com.capstone.destimate.app-merged_res-55:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\daden\\.gradle\\daemon\\8.2\\com.capstone.destimate.app-main-57:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\daden\\.gradle\\daemon\\8.2\\com.capstone.destimate.app-merged_res-55:\\drawable_ic_baseline_calendar_today_24.xml.flat",
+        "source": "C:\\Users\\daden\\.gradle\\daemon\\8.2\\com.capstone.destimate.app-main-57:\\drawable\\ic_baseline_calendar_today_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\daden\\.gradle\\daemon\\8.2\\com.capstone.destimate.app-merged_res-55:\\drawable_illustration.png.flat",
+        "source": "C:\\Users\\daden\\.gradle\\daemon\\8.2\\com.capstone.destimate.app-main-57:\\drawable\\illustration.png"
+    },
+    {
+        "merged": "C:\\Users\\daden\\.gradle\\daemon\\8.2\\com.capstone.destimate.app-merged_res-55:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\daden\\.gradle\\daemon\\8.2\\com.capstone.destimate.app-main-57:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\daden\\.gradle\\daemon\\8.2\\com.capstone.destimate.app-merged_res-55:\\drawable_ic_baseline_article_24.xml.flat",
+        "source": "C:\\Users\\daden\\.gradle\\daemon\\8.2\\com.capstone.destimate.app-main-57:\\drawable\\ic_baseline_article_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\daden\\.gradle\\daemon\\8.2\\com.capstone.destimate.app-merged_res-55:\\drawable_baseline_date_range_24.xml.flat",
+        "source": "C:\\Users\\daden\\.gradle\\daemon\\8.2\\com.capstone.destimate.app-main-57:\\drawable\\baseline_date_range_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\daden\\.gradle\\daemon\\8.2\\com.capstone.destimate.app-merged_res-55:\\drawable_baseline_image_24.xml.flat",
+        "source": "C:\\Users\\daden\\.gradle\\daemon\\8.2\\com.capstone.destimate.app-main-57:\\drawable\\baseline_image_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\daden\\.gradle\\daemon\\8.2\\com.capstone.destimate.app-merged_res-55:\\layout_item_nearby.xml.flat",
+        "source": "C:\\Users\\daden\\.gradle\\daemon\\8.2\\com.capstone.destimate.app-main-57:\\layout\\item_nearby.xml"
+    },
+    {
+        "merged": "C:\\Users\\daden\\.gradle\\daemon\\8.2\\com.capstone.destimate.app-merged_res-55:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\daden\\.gradle\\daemon\\8.2\\com.capstone.destimate.app-main-57:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.capstone.destimate.app-merged_res-55:/layout_activity_user.xml.flat",
+        "source": "com.capstone.destimate.app-main-57:/layout/activity_user.xml"
+    }
+]
