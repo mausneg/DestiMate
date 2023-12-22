@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="green">#2ABF87</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="yellow">#FFF9B81F</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="app_name">DestiMate</string>
+    <string name="berikan_rate">Berikan rating</string>
+    <string name="budget">Rp. 2000,.</string>
+    <string name="budget_needed">Budget avg.</string>
+    <string name="category">Category : Alam, Sejarah Edukasi, Rekreasi</string>
+    <string name="date">Birth Date</string>
+    <string name="destinasi_serupa">Destinasi serupa</string>
+    <string name="email">Email</string>
+    <string name="home_greeting">Hi, </string>
+    <string name="home_greeting_message">Mau kemana hari ini?</string>
+    <string name="home_recommendation">Rekomendasi untukmu</string>
+    <string name="item_alamat_destinasi">Mataram</string>
+    <string name="item_description">Masjid Nasional Al Akbar (atau biasa disebut Masjid Agung Surabaya) ialah masjid terbesar kedua di Indonesia yang berlokasi di Kota Surabaya, Jawa Timur setelah Masjid Istiqlal di Jakarta. Posisi masjid ini berada di wilayah Kelurahan Pagesangan, Kecamatan Jambangan, Surabaya dan tepat di samping Jalan Tol Surabaya-Gempol. Ciri yang mudah dilihat adalah kubahnya yang besar didampingi 4 kubah kecil yang berwarna biru. Serta memiliki satu menara yang tingginya 99 meter. Masjid Nasional Al-Akbar Surabaya dibangun sejak tanggal 4 Agustus 1995, atas gagasan Wali Kota Surabaya saat itu, H. Soenarto Soemoprawiro. Pembangunan Masjid ini ditandai dengan peletakan batu pertama oleh Wakil Presiden RI Try Sutrisno. Namun karena krisis moneter pembangunannya dihentikan sementara waktu. Tahun 1999, masjid ini dibangun lagi dan selesai tahun 2001. Pada 10 November 2000, Masjid ini diresmikan oleh Presiden RI KH. Abdurrahman Wahid.</string>
+    <string name="item_nama_destinasi">Nama lokasi</string>
+    <string name="item_rating_destinasi">0.0</string>
+    <string name="lihat_di_map">Lihat di Peta</string>
+    <string name="login">Login</string>
+    <string name="main_favorite">Destinasi favorite</string>
+    <string name="main_nearby">Destinasi di sekitarmu</string>
+    <string name="message_login_page">Ayo login dan lihat destinasi apa saja yang dapat membuatmu terpesona!</string>
+    <string name="message_signup_page">Isi data di bawah ini untuk membuat akun baru!</string>
+    <string name="password">Password</string>
+    <string name="password_confirm">Password Confirm</string>
+    <string name="rating_hint">(0.0)</string>
+    <string name="search_hint">Telusuri destinasi wisata</string>
+    <string name="signup">Sign Up</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_article">Article</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_home">Home</string>
+    <string name="title_login_page">Selamat datang di DestiMate!</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_schedule">Schedule</string>
+    <string name="title_setting">Setting</string>
+    <string name="title_signup_page">Buat akun DestiMate milikmu!</string>
+    <string name="username">Username</string>
+    <style name="Base.Theme.DestiMate" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/green</item>
+        <item name="colorOnPrimary">@color/white</item>
+    </style>
+    <style name="Theme.DestiMate" parent="Base.Theme.DestiMate"/>
+</resources>
